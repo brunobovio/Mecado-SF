@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+
+#imagen-auto{ 
+    border: dashed 10px;
+    border-color: pink;
+}
+
+h1{
+    text-align: center;
+    background-color: pink;
+}
+
+#imagen-auto-precio{
+    text-align: center;
+
+}
+
+#caracteristicas{
+    text-align: left;
+    padding-left: 20%;
+    
+}
+
+

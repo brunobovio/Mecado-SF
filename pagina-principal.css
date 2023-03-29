@@ -1,0 +1,61 @@
+body{
+    border: 5px;
+    margin: 10px;
+}
+
+
+#logos-redes{
+    background-color: pink;
+    border-color: black;
+    text-align: center;
+    
+}
+
+#logo-instagram{
+    float: right;
+    width: 25px;
+    padding-left: 2%;
+    padding-right: 1%;
+    margin-top: 0,5%;
+    
+    
+
+}
+
+#categorias{
+    background-color: gainsboro;
+    border: 5px solid;
+    
+}
+
+body{
+    background-color: beige;
+
+}
+
+#iphone{
+    
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+#iphone-imagen{
+    border: dashed 10px;
+    border-color: pink;
+}
+
+#heladera{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#heladera-imagen{
+    border: dashed 10px;
+    border-color: pink;
+}
+
+#auto-imagen{
+    border: dashed 10px;
+    border-color: pink;
+}
